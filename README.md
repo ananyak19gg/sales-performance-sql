@@ -11,7 +11,7 @@ which segments drive real profit, and whether discounting is hurting the busines
 - Period: 2011–2014
 
 ## Tools
-MySQL — Joins, Aggregations, Window Functions, CTEs
+MySQL - Joins, Aggregations, Window Functions, CTEs
 
 ## Business Questions Answered
 1. Which category generates most revenue but weakest margin?
