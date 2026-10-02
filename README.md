@@ -1,4 +1,4 @@
-# Sales Performance Analysis — Superstore Dataset
+# Sales Performance Analysis - Superstore Dataset
 
 ## Problem Statement
 Despite growing order volume, profit margins remain inconsistent across 
@@ -19,18 +19,18 @@ MySQL - Joins, Aggregations, Window Functions, CTEs
 3. Is discounting hurting profit?
 4. Which products sell well but lose money?
 5. Top product within each category
-6. Monthly revenue trend — are we growing?
+6. Monthly revenue trend - are we growing?
 7. Which month grew most and which crashed?
 8. Cumulative revenue milestones
 9. Which customer segment is most profitable?
-10. Customer value tiers — who are our VIPs?
+10. Customer value tiers - who are our VIPs?
 
 ## Key Findings
-- Furniture has highest discounts and lowest profit — pricing strategy is broken
+- Furniture has highest discounts and lowest profit - pricing strategy is broken
 - Central region underperforms due to aggressive discounting on loss-making sub-categories
 - Tables and Bookcases are destroying margin across all regions
 - Technology drives the highest profit with the lowest discounts
-- Top 25% of customers contribute disproportionate revenue — retention is critical
+- Top 25% of customers contribute disproportionate revenue - retention is critical
 
 ## Recommendations
 - Reduce or cap discounts on Furniture, especially in Central region
